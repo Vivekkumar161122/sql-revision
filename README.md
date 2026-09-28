@@ -1,4 +1,4 @@
-# SQL_revision
+# sql_revision
 It is meant for SQL revision. 
 
 # What is SQL?
